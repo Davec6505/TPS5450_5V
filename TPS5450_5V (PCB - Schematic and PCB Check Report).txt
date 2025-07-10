@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     22:22 Thursday, July 10, 2025
+Project Path:       C:\Users\Automation\Desktop\DS\DS_PCB\TPS5450_5V\TPS5450_5V.prj
+Design Path:        C:\Users\Automation\Desktop\DS\DS_PCB\TPS5450_5V\TPS5450_5V.pcb
+Design Title:       
+Created:            10/07/2025 21:02:21
+Last Saved:         10/07/2025 22:13:49
+Editing Time:       79 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic and Pcb designs in project "TPS5450_5V"
+=======================================================================
+
+
+End Of Report.
